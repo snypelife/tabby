@@ -1,0 +1,120 @@
+/*======================================
+=            Grid Variables            =
+======================================*/
+
+@columnGutter: 1rem;
+@columnGutterPhone: .25rem;
+@columnGutterTablet: .5rem;
+
+/*-----  End of Grid Variables  ------*/
+
+
+
+/*===================================
+=            Grid mixins            =
+===================================*/
+
+.generate-columns(@class: -col, @cells: 12, @iterator: 1, @offset: 1rem) when (@iterator < @cells) {
+  @width: 100% / @cells * @iterator;
+  [class*='a-@{iterator}@{class}'] {
+    width: e('calc(@{width} - @{offset})');
+  }
+  .generate-columns(@class, @cells, (@iterator + 1), @offset);
+}
+
+.generate-offsets(@class: -offset, @cells: 12, @iterator: 1) when (@iterator < @cells) {
+  @margin: 100% / @cells * @iterator;
+  [class*='with-@{iterator}@{class}'] {
+    margin-left: @margin;
+  }
+  .generate-offsets(@class, @cells, (@iterator + 1));
+}
+
+.generate-push-pulls(@prefix: col-) {
+  .@{prefix}pull {
+    float: left;
+  }
+  .@{prefix}push {
+    float: right;
+  }
+}
+
+/*-----  End of Grid mixins  ------*/
+
+
+
+
+/*===========================================
+=            Default grid styles            =
+===========================================*/
+
+* {
+  box-sizing: border-box;
+  font-size: 1em;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  font-size: 0;
+  margin: 0 auto;
+  max-width: 1170px;
+  padding-left: @columnGutter;
+}
+
+[class*="-col"] {
+  background-clip: padding-box;
+  display: inline-block;
+  font-size: 0 !important;
+  margin-right: @columnGutter;
+  vertical-align: top;
+
+  > * {
+    font-size: @columnGutter;
+  }
+}
+
+.generate-columns();
+.generate-offsets();
+.generate-push-pulls();
+
+/*-----  End of Default grid styles  ------*/
+
+
+/*=====================================
+=            Media queries            =
+=====================================*/
+
+/*==========  Viewport: Phone  ==========*/
+@media only screen and (max-width: 42rem) {
+  .container {
+    padding-right: @columnGutter - @columnGutterPhone;
+    max-width: none;
+  }
+  [class*="-col"] {
+    display: block;
+    margin-right: @columnGutterPhone;
+    width: auto;
+  }
+  [class*="-col-small"] {
+    display: inline-block;
+    margin-right: @columnGutterPhone;
+  }
+  [class*="-offset"] {
+    margin-left: 0;
+  }
+  .generate-columns(-col-small, 12, 1, @columnGutterPhone);
+  .generate-offsets(-offset-small, 12, 1);
+  .generate-push-pulls(-col-small);
+}
+
+/*==========  Viewport: Tablet  ==========*/
+@media only screen and (min-width: 42rem) and (max-width: 60rem) {
+  [class*="-col"] {
+    margin-right: @columnGutterTablet;
+  }
+  .generate-columns(-col, 12, 1, @columnGutterTablet);
+  // .generate-push-pulls(col-med-);
+}
+
+/*-----  End of Media queries  ------*/

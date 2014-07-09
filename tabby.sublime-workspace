@@ -1,0 +1,1915 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"key",
+				"keyModifier"
+			],
+			[
+				"bill",
+				"billListArray"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"bil",
+				"bill"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"elem",
+				"element"
+			],
+			[
+				"st",
+				"startingBills"
+			],
+			[
+				"month",
+				"monthNames"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"tran",
+				"transitionEnd"
+			],
+			[
+				"swip",
+				"swipe-down"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"bills",
+				"bills"
+			],
+			[
+				"par",
+				"parentSelector"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"event",
+				"eventType"
+			],
+			[
+				"evt",
+				"eventConstructor"
+			],
+			[
+				"set",
+				"setAttribute"
+			],
+			[
+				"match",
+				"matches"
+			],
+			[
+				"type",
+				"types"
+			],
+			[
+				"mat",
+				"matches"
+			],
+			[
+				"sele",
+				"selectorTypeRegex"
+			],
+			[
+				"tpe",
+				"typeRegex"
+			],
+			[
+				"com",
+				"comm	Comment - Single-line block comment"
+			],
+			[
+				"comm",
+				"comm-section	Comment - Full section comment"
+			],
+			[
+				"el",
+				"element"
+			],
+			[
+				"mas",
+				"matchesSelectorCheck"
+			],
+			[
+				"new",
+				"newElement"
+			],
+			[
+				"ev",
+				"eventString"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"trig",
+				"triggerEvent"
+			],
+			[
+				"typ",
+				"typeRegex"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"hml",
+				"htmlmin"
+			],
+			[
+				"pubi",
+				"publicVar1"
+			],
+			[
+				"pub",
+				"publicMethod1"
+			],
+			[
+				"publi",
+				"publicFunction1"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"base",
+				"baselineData"
+			],
+			[
+				"brand",
+				"brandGray"
+			],
+			[
+				"mi",
+				"mid"
+			],
+			[
+				"suff",
+				"suffixFlag"
+			],
+			[
+				"_form",
+				"_formatCurrency"
+			],
+			[
+				"Twi",
+				"TwitterFeed"
+			],
+			[
+				"pto",
+				"prototype"
+			],
+			[
+				"twitt",
+				"twitterFeed"
+			],
+			[
+				"acc",
+				"access_token"
+			],
+			[
+				"acces",
+				"accessTokenCallback"
+			],
+			[
+				"pro",
+				"protectedResourceCallback"
+			],
+			[
+				"reqes",
+				"requestToken"
+			],
+			[
+				"oauth",
+				"oauth_token_secret"
+			],
+			[
+				"oa",
+				"oAuthTwitterBoards"
+			],
+			[
+				"replac",
+				"replacements"
+			],
+			[
+				"cal",
+				"calculators_fr"
+			],
+			[
+				"defa",
+				"defaultOption"
+			],
+			[
+				"default",
+				"defaultValue"
+			],
+			[
+				"client",
+				"clientY"
+			],
+			[
+				"clien",
+				"clientX"
+			],
+			[
+				"baseline",
+				"baselineData"
+			],
+			[
+				"log",
+				"logError"
+			],
+			[
+				"oncal",
+				"onCallFailure"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"get",
+				"getPosition"
+			],
+			[
+				"comm-s",
+				"comm-subsection	Comment - Subsection comment"
+			],
+			[
+				"from",
+				"fromyear"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"parse",
+				"parsedUrl"
+			],
+			[
+				"run",
+				"runClyde"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"curr",
+				"currentYear"
+			],
+			[
+				"dev",
+				"development"
+			],
+			[
+				"cur",
+				"currentYear"
+			],
+			[
+				"sw",
+				"swData"
+			],
+			[
+				"fund",
+				"fundserv"
+			],
+			[
+				"proxy",
+				"proxyAgent"
+			],
+			[
+				"prox",
+				"proxyAgent"
+			],
+			[
+				"curren",
+				"currentMonth"
+			],
+			[
+				"current",
+				"currentYear"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"ca",
+				"callback"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"upda",
+				"update_user"
+			],
+			[
+				"param",
+				"params"
+			],
+			[
+				"profi",
+				"profile_img"
+			],
+			[
+				"prof",
+				"profile_img"
+			],
+			[
+				"cooki",
+				"cookiePoll"
+			],
+			[
+				"suc",
+				"Successful"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"html",
+				"htmlmin"
+			],
+			[
+				"dat",
+				"dataLen"
+			],
+			[
+				"link",
+				"linkTarget"
+			],
+			[
+				"clyde",
+				"clydeArgs"
+			],
+			[
+				"CPU",
+				"CPU_id"
+			],
+			[
+				"clust",
+				"clusterChild"
+			],
+			[
+				"start",
+				"startProdServer"
+			],
+			[
+				"write",
+				"writeToLogFile"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"snap",
+				"snapshots"
+			],
+			[
+				"foot",
+				"footerHTML"
+			],
+			[
+				"mkdir",
+				"mkdirSync"
+			],
+			[
+				"path",
+				"pathPieces"
+			],
+			[
+				"po",
+				"postId"
+			],
+			[
+				"ste",
+				"stateParams"
+			],
+			[
+				"page",
+				"pageSnippet"
+			],
+			[
+				"share",
+				"shareLinks"
+			],
+			[
+				"OA",
+				"OAuthTangerine"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"h",
+				"headers"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"hp",
+				"hp-banner-canvas"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"for",
+				"forwardthinking"
+			],
+			[
+				"no",
+				"NotFound"
+			],
+			[
+				"request",
+				"requestHeaders"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"get_post",
+				"get_post_previous"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4645,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "less/styles.less",
+			"settings":
+			{
+				"buffer_size": 2238,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/scripts.js",
+			"settings":
+			{
+				"buffer_size": 3789,
+				"line_ending": "Unix",
+				"name": "!function (root) {"
+			}
+		},
+		{
+			"file": "js/query.js",
+			"settings":
+			{
+				"buffer_size": 13548,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 2454,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/LESS-build/LESS.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ssja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"autp",
+				"Autoprefix CSS"
+			],
+			[
+				"chec",
+				"Git: Checkout"
+			],
+			[
+				"ch",
+				"Git: Checkout"
+			],
+			[
+				"check",
+				"Git: Checkout"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"bran",
+				"Git: Checkout New Branch"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"pu",
+				"Git: Pull Current Branch"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssjas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sshm",
+				"Set Syntax: HTML"
+			],
+			[
+				"comme",
+				"Snippet: Comment - Subsection comment"
+			],
+			[
+				"ssaction",
+				"Set Syntax: ActionScript"
+			],
+			[
+				"branch",
+				"Git: Checkout New Branch"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"align",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ssjade",
+				"Set Syntax: Jade"
+			],
+			[
+				"sshan",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"statsu",
+				"Git: Status"
+			],
+			[
+				"ssjav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"diff",
+				"Git: Diff"
+			],
+			[
+				"lice",
+				"SublimeGit: Add License"
+			],
+			[
+				"ssxsl",
+				"Set Syntax: XSL"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/ie8-test.html",
+		"/C/Users/brogerson/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/EV6AMBZL/Tangerine[1]",
+		"/C/workspace/tabby/less/grid.less",
+		"/C/workspace/tabby/build/index.html",
+		"/C/workspace/tabby/css/styles.css",
+		"/C/workspace/tabby/Gruntfile.js",
+		"/C/Users/BROGER~1/AppData/Local/Temp/fbtmp/10.180.130.175/_assets/js/com/ing/PA.js",
+		"/C/workspace/tabby/.gitignore",
+		"/C/workspace/tabby/less/styles.less",
+		"/C/workspace/tabby/offline.manifest",
+		"/C/wamp/www/historicalrates/historical-rates.js",
+		"/C/workspace/tabby/data/list.js",
+		"/C/Users/brogerson/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
+		"/C/workspace/tabby/tabby.sublime-project",
+		"/H/Projects/100341 Site Integration Phase Two/Digital Team/updated/module.css",
+		"/C/workspace/tabby/server.js",
+		"//idcwp51.devingdircan.ca/C$/hub-new/server.js",
+		"//idcwp51.devingdircan.ca/C$/hub-new/routes.js",
+		"/C/workspace/inline-block grid/package.json",
+		"/C/wamp/www/html5-calculators-frontend/calculators.html",
+		"/C/workspace/tabby/node_modules/grunt-processhtml/node_modules/htmlprocessor/test/expected/multiple/mult_one.html",
+		"/C/workspace/tabby/node_modules/grunt-contrib-less/node_modules/less/test/less/errors/multiple-guards-on-css-selectors.less",
+		"/C/workspace/tabby/node_modules/express/node_modules/cookie-signature/Makefile",
+		"/C/workspace/tabby/node_modules/grunt-string-replace/test/string-replace_test.js",
+		"/C/workspace/tabby/index.html",
+		"/C/workspace/tabby/build/css/styles.css",
+		"/C/workspace/clyde/demo/index.js",
+		"/C/workspace/tabby/package.json",
+		"/C/wamp/www/html5-calculators-frontend/js/calculators.StreetwiseComparison.js",
+		"/C/wamp/www/html5-calculators-frontend/css/app.css",
+		"/C/wamp/www/html5-calculators-frontend/templates/en/sbt.html",
+		"/C/wamp/www/html5-calculators-frontend/templates/en/bisa.html",
+		"/C/wamp/www/html5-calculators-frontend/build/templates/en/bisa.html",
+		"/C/wamp/www/html5-calculators-frontend/js/calculators.BusinessInvestmentCalculator.js",
+		"/C/wamp/www/html5-calculators-frontend/build/templates/en/fc.html",
+		"/C/wamp/www/html5-calculators-frontend/fonts/circularstd-bold.svg",
+		"/C/wamp/www/html5-calculators-frontend/js/app.js",
+		"/C/wamp/www/html5-calculators-frontend/templatess/en/sbt.html",
+		"/C/wamp/www/html5-calculators-frontend/templatess/fr/sbt.html",
+		"/C/wamp/www/html5-calculators-frontend/build/templates/en/sbt.html",
+		"/C/wamp/www/html5-calculators-frontend/css/style.css",
+		"/C/wamp/www/html5-calculators-frontend/js/MortgagePrepayment.js",
+		"/C/wamp/www/html5-calculators-frontend/js/calculators.MFIPCalculator.js",
+		"/C/wamp/www/html5-calculators-frontend/calculators_fr.html",
+		"/C/wamp/www/html5-calculators-frontend/js/AppRouter.js",
+		"/C/wamp/www/html5-calculators-frontend/package.json",
+		"/C/wamp/www/html5-calculators-frontend/html5-calculators-frontend.sublime-project",
+		"/C/wamp/www/html5-calculators-frontend/js/calculators.RSPLoanCalculator.js",
+		"/C/wamp/www/html5-calculators-frontend/templates/fr/sbt.html",
+		"/C/wamp/www/html5-calculators-frontend/js/jquery.requester.js",
+		"/C/wamp/www/html5-calculators-frontend/js/calculators.GICCalculator.js",
+		"/C/wamp/www/html5-calculators-frontend/js/calculators.Calculator.js",
+		"/C/wamp/www/html5-calculators-frontend/js/chartData/savings.json",
+		"/C/wamp/www/html5-calculators-frontend/js/calculators.MortgagePaymentCalculator.js",
+		"/C/wamp/www/html5-calculators-frontend/css/core.css",
+		"/C/wamp/www/html5-calculators-frontend/.gitignore",
+		"/C/wamp/www/html5-calculators-frontend/node_modules/grunt-contrib-htmlmin/node_modules/html-minifier/node_modules/cli/node_modules/glob/test/bash-comparison.js",
+		"/C/wamp/www/html5-calculators-frontend/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/mout/date/parseIso.js",
+		"/C/wamp/www/html5-calculators-frontend/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/mout/string/makePath.js",
+		"/C/wamp/www/html5-calculators-frontend/node_modules/grunt/node_modules/js-yaml/node_modules/esprima/test/compat.js",
+		"/C/wamp/www/html5-calculators-frontend/node_modules/grunt-processhtml/node_modules/htmlprocessor/test/fixtures/commentMarker.html",
+		"/C/wamp/www/html5-calculators-frontend/node_modules/grunt-contrib-concat/tasks/lib/comment.js",
+		"/C/wamp/www/html5-calculators-frontend/node_modules/grunt-contrib-concat/docs/concat-options.md",
+		"/C/wamp/www/html5-calculators-frontend/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/mout/number/MAX_UINT.js",
+		"/C/wamp/www/html5-calculators-frontend/node_modules/grunt-processhtml/node_modules/htmlprocessor/test/expected/multiple/mult_three.html",
+		"/C/wamp/www/html5-calculators-frontend/node_modules/grunt-contrib-uglify/node_modules/uglify-js/node_modules/source-map/test/source-map/test-util.js",
+		"/C/wamp/www/html5-calculators-frontend/node_modules/grunt/node_modules/underscore.string/test/test_underscore/arrays.js",
+		"/C/wamp/www/html5-calculators-frontend/node_modules/grunt-contrib-watch/node_modules/tiny-lr-fork/bin/update-livereload",
+		"/C/wamp/www/secure.tangerine.ca/tangerine-secure.sublime-project",
+		"/C/Users/brogerson/Desktop/Old Firefox Data/m2xrw9e5.default/bookmarkbackups/bookmarks-2014-06-09_12.json",
+		"/C/wamp/www/secure.tangerine.ca/fonts/font-awesome/variables.less",
+		"/C/wamp/www/secure.tangerine.ca/less/bootstrap/variables.less",
+		"/C/wamp/www/secure.tangerine.ca/js/bootstrap/custom/validation-rules.txt",
+		"/C/wamp/www/secure.tangerine.ca/en_CA/web/ValidateAICIF.html",
+		"/C/wamp/www/secure.tangerine.ca/js/bootstrap/custom/bill-payment.js",
+		"/C/wamp/www/secure.tangerine.ca/package.json",
+		"/C/wamp/www/secure.tangerine.ca/en_CA/web/PIN.html",
+		"/C/Program Files (x86)/Mozilla Firefox/browser/blocklist.xml",
+		"/C/wamp/www/html5-calculators-frontend/Gruntfile.js",
+		"//idcwp51.devingdircan.ca/C$/hub-new/node_modules/oauth/index.js",
+		"//idcwp51.devingdircan.ca/C$/hub-new/node_modules/oauth/lib/oauth2.js",
+		"//idcwp51.devingdircan.ca/C$/hub-new/oauth/oauth-twitter-boards.js",
+		"//idcwp51.devingdircan.ca/C$/hub-new/conf/config.js",
+		"//idcwp51.devingdircan.ca/C$/hub-new/oauth/strategy-handler.js",
+		"/C/wamp/www/cafe-twitter-boards/src/com/swfjunkie/tweetr/Tweetr.as",
+		"/C/wamp/www/cafe-twitter-boards/src/ca/ing/cafe/tweet/TweetStream.as",
+		"/C/wamp/www/cafe-twitter-boards/src/ca/ing/cafe/tweet/TweetStreamSingle.as",
+		"//idcwp51.devingdircan.ca/C$/hub-new/node_modules/oauth/lib/oauth.js",
+		"/C/wamp/www/cafe-twitter-boards/proxy/install.php",
+		"/C/wamp/www/cafe-twitter-boards/proxy/Tweetr.php",
+		"/C/wamp/www/cafe-twitter-boards/proxy/index.php",
+		"/C/wamp/www/cafe-twitter-boards/xml/counter.xml",
+		"/C/wamp/www/cafe-twitter-boards/xml/gateway.php",
+		"/H/Marketing/Digital Dev/prepayment-calc/package.json",
+		"/C/wamp/www/prepayment-calc/build/mortgagePrepayment.html",
+		"/C/wamp/www/prepayment-calc/mortgagePrepayment.html",
+		"/C/wamp/www/prepayment-calc/mortgagePrepayment-fr.html",
+		"/C/Users/brogerson/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/XETZNE02/mortgagePrepayment[1]",
+		"/C/wamp/www/prepayment-calc/Gruntfile.js",
+		"/C/wamp/www/prepayment-calc/build/css/mortgage-prepayment-calc.min.css",
+		"/C/wamp/www/prepayment-calc/css/core.css",
+		"/C/wamp/www/prepayment-calc/js/MortgagePrepayment.js",
+		"/C/wamp/www/prepayment-calc/css/dropkick.css",
+		"/C/wamp/www/prepayment-calc/historicalrates/RatesHistory.xml",
+		"/C/wamp/www/prepayment-calc/js/calculator.loader.js",
+		"//idcwp51.devingdircan.ca/C$/hub-new/oauth/oauth-twitter.js",
+		"/C/wamp/www/secure.tangerine.ca/js/Chart.js",
+		"/C/wamp/www/secure.tangerine.ca/js/Chart.min.js",
+		"/C/wamp/www/secure.tangerine.ca/css/bootstrap/module.css",
+		"/C/wamp/www/secure.tangerine.ca/js/bootstrap/custom/custom-plugins.js",
+		"/C/wamp/www/test.php",
+		"/C/wamp/www/html5-calculators-frontend/build/js/app.min.js",
+		"/C/wamp/www/node-proxy/server.js",
+		"/C/wamp/www/solicitor.tangerine.ca/index.html",
+		"/H/Marketing/Digital Dev/html5-calculators-backend/.editorconfig",
+		"/H/Marketing/Digital Dev/html5-calculators-backend/.gitignore",
+		"/H/Marketing/Digital Dev/html5-calculators-backend/.gitattributes",
+		"/C/wamp/www/js/custom-plugins.js",
+		"/C/wamp/www/html5-calculators-frontend/build/css/app.min.css",
+		"/C/wamp/www/html5-calculators-frontend/node_modules/grunt-contrib-htmlmin/tasks/htmlmin.js",
+		"/C/wamp/www/html5-calculators-frontend/templates/en/gic.html",
+		"/C/wamp/www/html5-calculators-frontend/templates/en/fc.html",
+		"/C/wamp/www/html5-calculators-frontend/node_modules/grunt-contrib-htmlmin/node_modules/html-minifier/dist/htmlminifier.js",
+		"/C/wamp/www/html5-calculators-frontend/node_modules/grunt-contrib-htmlmin/node_modules/html-minifier/cli.js",
+		"/C/wamp/www/html5-calculators-frontend/templates/fr/bisa.html",
+		"/C/wamp/www/html5-calculators-frontend/templates/fr/fc.html",
+		"/C/wamp/www/html5-calculators-frontend/templates/fr/gic.html",
+		"/C/wamp/www/html5-calculators-frontend/templates/fr/hmcib.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\wamp\\www\\html5-calculators-frontend\\",
+			"C:\\wamp\\www\\html5-calculators-frontend\\js",
+			"C:\\wamp\\www\\cafe-twitter-boards",
+			"C:\\wamp\\www\\html5-calculators-frontend\\templates",
+			"C:\\wamp\\www\\calc-frontend-mar14\\js",
+			"C:\\wamp\\www\\Site Integration Phase 2 - Brett\\less\\bootstrap\\custom",
+			"\\\\idcwp51.devingdircan.ca\\C$\\hub-new\\src\\en, \\\\idcwp51.devingdircan.ca\\C$\\hub-new\\src\\fr",
+			"\\\\idcwp51.devingdircan.ca\\C$\\hub-new\\src ,-partials",
+			"\\\\idcwp51.devingdircan.ca\\C$\\hub-new\\src ,-\\\\idcwp51.devingdircan.ca\\C$\\hub-new\\src\\en\\views\\partials",
+			"\\\\idcwp51.devingdircan.ca\\C$\\hub-new\\src",
+			"\\\\idcwp51.devingdircan.ca\\C$\\Program Files (x86)\\Apache Software Foundation\\Apache2.2\\htdocs\\en\\wp-content\\plugins\\wp-super-cache",
+			"C:\\wamp\\www\\calc-frontend-mar14\\js",
+			"C:\\wamp\\www\\calc-frontend-mar14, -*\\node_modules\\*, -*\\archives\\*",
+			"C:\\wamp\\www\\calc-frontend-mar14, -C:\\wamp\\www\\node_modules\\*",
+			"C:\\wamp\\www\\calc-frontend-mar14, -\"C:\\wamp\\www\\node_modules\"",
+			"C:\\wamp\\www\\calc-frontend-mar14 ,-C:\\wamp\\www\\node_modules",
+			"C:\\wamp\\www\\calc-frontend-mar14 ,-node_modules",
+			"C:\\wamp\\www\\calc-frontend-mar14",
+			"C:\\wamp\\www\\calc-frontend-mar14\\js",
+			"C:\\wamp\\www\\Site Integration Phase 2 - Brett\\en_CA\\web",
+			"\\\\idcwp51.devingdircan.ca\\C$\\hub-new\\src\\global\\js",
+			"\\\\idcwp51.devingdircan.ca\\C$\\hub-new\\src\\global\\js\\hub",
+			"C:\\wamp\\www\\calc-frontend-mar14\\templates\\en",
+			"\\\\idcwp51.devingdircan.ca\\C$\\Program Files (x86)\\Apache Software Foundation\\Apache2.2\\htdocs\\en\\wp-content\\plugins\\json-api",
+			"\\\\idcwp51.devingdircan.ca\\C$\\Program Files (x86)\\Apache Software Foundation\\Apache2.2\\htdocs\\en\\wp-content\\plugins\\wp-super-cache",
+			"\\\\idcwp51.devingdircan.ca\\C$\\Program Files (x86)\\Apache Software Foundation\\Apache2.2\\htdocs\\en\\wp-content\\plugins\\w3-total-cache",
+			"C:\\wamp\\www\\calc-frontend-mar14\\templates\\fr",
+			"C:\\wamp\\www\\calc-frontend-mar14\\templates\\en",
+			"C:\\wamp\\www\\calc-frontend-mar14\\templates",
+			"\\\\idcwp51.devingdircan.ca\\C$\\hub-new\\public\\global\\js\\hub\\",
+			"\\\\idcwp51.devingdircan.ca\\C$\\hub-new\\public\\global\\js\\",
+			"C:\\wamp\\www\\calc-frontend-mar14\\templates",
+			"C:\\wamp\\www\\calc-frontend-mar14\\js",
+			"",
+			"C:\\wamp\\www\\calc-frontend-mar14\\js",
+			"C:\\Users\\brogerson\\Desktop\\hub-new\\public\\fr",
+			"C:\\Users\\brogerson\\Desktop\\hub-new\\public\\en\\js",
+			"C:\\Users\\brogerson\\Desktop\\hub-new\\public",
+			"\\\\idcwp51.devingdircan.ca\\C$\\hub\\node_modules\\node-windows",
+			"\\\\idcwp51.devingdircan.ca\\C$\\hub\\node_modules\\node-windows\\lib"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"billDiv",
+			"buildBillList",
+			"billsObject",
+			"updateBillList",
+			"newBillRow",
+			"clearBillList",
+			"sortBills",
+			"The simple bill reminder tool.",
+			"trigger",
+			"shift-left",
+			"bill[",
+			"SPLASHSCREEN-->",
+			"href=\"apple-touch-startup",
+			"apple-touch",
+			"'Jan',",
+			"opacity",
+			"3-col",
+			"_getPageInfo()",
+			"-small",
+			"newBillItem",
+			"toArray",
+			"newElement",
+			",",
+			"inScopeChain(",
+			"filterSelector(",
+			"matchesSelector(",
+			"matchesSelector",
+			"element",
+			"element.",
+			"  , ",
+			", ",
+			"  , ",
+			"window.",
+			"eventString",
+			"eventType",
+			"evt",
+			"el.addEventListener(\"",
+			"el",
+			"el.",
+			"element",
+			"el.",
+			", target: target",
+			"docEl",
+			"grep.",
+			"span",
+			"@gray",
+			"a-6-col",
+			"a-4-col",
+			"a-8-col",
+			"&#10006; PAID",
+			"<div class=\"a-8-col\">",
+			"PAID &#10004;",
+			"site-",
+			"site",
+			" blue",
+			" green",
+			" red",
+			"-span",
+			"offset",
+			"-col",
+			"generate-cells",
+			"-offset",
+			"-col",
+			"_",
+			"_offset",
+			"_col",
+			"_col_small",
+			"_offset",
+			"_small",
+			"_col",
+			"@columnGutter",
+			"columnGutter",
+			"columnVariance",
+			".25rem",
+			"1rem",
+			".25",
+			"\n    </div>",
+			"\n        </div>",
+			"\n      <strong>_2_col_small</strong>",
+			"_small",
+			"offset-",
+			"col-",
+			"col-small",
+			"         ",
+			"        ",
+			"       ",
+			"      ",
+			"     ",
+			"\n        ",
+			"col-2",
+			"small",
+			"cell-",
+			"@o",
+			"@i",
+			"@n",
+			"blue",
+			"px",
+			"#999",
+			"cell-container",
+			"4",
+			"[class^=\"",
+			"width",
+			"-end",
+			" blue",
+			" green",
+			" red",
+			"generate-columns",
+			"calc(1",
+			"cell-1",
+			" break",
+			"- 1em",
+			"100% / 12",
+			"1em)",
+			"calc((100% / 12)",
+			"red",
+			"path",
+			"server",
+			"})",
+			"private",
+			"\n  function privateFunction1(){}\n  function privateFunction2(){}",
+			"lineWeight: 3",
+			"#aa3333",
+			"onCalcLoad",
+			"wisest",
+			"ajax",
+			"POST",
+			"app-serviceurl",
+			"Core.settings.meta['app-serviceurl']"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&nbsp;",
+			"&amp;",
+			"href=\"#!",
+			"//tangerine.ca",
+			"data-colors='[\"#f58426\"]'",
+			"h2",
+			"/en",
+			"/global"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4645,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close"
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 189.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "less/styles.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close"
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 408.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/scripts.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3789,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "!function (root) {",
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close"
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/query.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close"
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Gruntfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2454,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								780,
+								780
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close"
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.coffeecompile_output":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 230.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-checkout":
+	{
+		"height": 100.0
+	},
+	"output.git-commit":
+	{
+		"height": 100.0
+	},
+	"output.git-pull":
+	{
+		"height": 281.0
+	},
+	"output.git-push":
+	{
+		"height": 100.0
+	},
+	"project": "tabby.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"grid",
+				"less\\grid.less"
+			],
+			[
+				"styl",
+				"less\\styles.less"
+			],
+			[
+				"style",
+				"less\\styles.less"
+			],
+			[
+				"compar",
+				"js\\calculators.StreetwiseComparison.js"
+			],
+			[
+				"app.css",
+				"css\\app.css"
+			],
+			[
+				"sbt",
+				"templates\\en\\sbt.html"
+			],
+			[
+				"sbt.html",
+				"templatess\\en\\sbt.html"
+			],
+			[
+				"calc",
+				"calculators.html"
+			],
+			[
+				"compa",
+				"js\\calculators.StreetwiseComparison.js"
+			],
+			[
+				"apptr",
+				"js\\AppRouter.js"
+			],
+			[
+				"app",
+				"js\\app.js"
+			],
+			[
+				"sbt.",
+				"templates\\en\\sbt.html"
+			],
+			[
+				"request",
+				"js\\jquery.requester.js"
+			],
+			[
+				"approu",
+				"js\\AppRouter.js"
+			],
+			[
+				"app.",
+				"js\\app.js"
+			],
+			[
+				"vari",
+				"less\\bootstrap\\variables.less"
+			],
+			[
+				"pay",
+				"less\\bootstrap\\custom\\custom-pay-my-bills.less"
+			],
+			[
+				"forms",
+				"less\\bootstrap\\custom\\custom-bootstrap-forms.less"
+			],
+			[
+				"module",
+				"less\\bootstrap\\module.less"
+			],
+			[
+				"custom",
+				"js\\bootstrap\\custom\\custom-plugins.js"
+			],
+			[
+				"ull",
+				"en_CA\\web\\UploadEDocsList.html"
+			],
+			[
+				"abm-lo",
+				"js\\abm-locator.js"
+			],
+			[
+				"pin",
+				"en_CA\\web\\PIN.html"
+			],
+			[
+				"modul",
+				"less\\bootstrap\\module.less"
+			],
+			[
+				"form",
+				"less\\bootstrap\\custom\\custom-bootstrap-forms.less"
+			],
+			[
+				"pen",
+				"en_CA\\web\\EditPendingTransaction.html"
+			],
+			[
+				"pending",
+				"en_CA\\web\\PendingTransactions.html"
+			],
+			[
+				"buttons",
+				"less\\bootstrap\\custom\\custom-bootstrap-buttons.less"
+			],
+			[
+				"dropdown",
+				"less\\bootstrap\\custom\\custom-bootstrap-dropdowns.less"
+			],
+			[
+				"drop",
+				"less\\bootstrap\\lib\\bootstrap\\dropdowns.less"
+			],
+			[
+				"state",
+				"less\\bootstrap\\state.less"
+			],
+			[
+				"butto",
+				"less\\bootstrap\\custom\\custom-bootstrap-buttons.less"
+			],
+			[
+				"mobile",
+				"less\\bootstrap\\custom\\custom-responsive-mobile.less"
+			],
+			[
+				"tablet",
+				"less\\bootstrap\\custom\\custom-responsive-tablet.less"
+			],
+			[
+				"phone",
+				"less\\bootstrap\\custom\\custom-responsive-phone.less"
+			],
+			[
+				"mobule",
+				"en_CA\\web\\modals\\BusinessEnrollment-saved.html"
+			],
+			[
+				"templ",
+				"js\\templates.js"
+			],
+			[
+				"custo",
+				"js\\bootstrap\\custom\\custom-plugins.js"
+			],
+			[
+				"account",
+				"en_CA\\web\\AccountHistory.html"
+			],
+			[
+				"footer",
+				"en_CA\\web\\templates\\footer.handlebars"
+			],
+			[
+				"layou",
+				"less\\bootstrap\\layout.less"
+			],
+			[
+				"templat",
+				"js\\templates.js"
+			],
+			[
+				"popout",
+				"public\\fr\\views\\partials\\popout-nav.html"
+			],
+			[
+				"main",
+				"public\\en\\views\\partials\\nav-main.html"
+			],
+			[
+				"app.h",
+				"public\\en\\app.html"
+			],
+			[
+				"header",
+				"public\\fr\\views\\partials\\header-main.html"
+			],
+			[
+				"navman",
+				"public\\en\\views\\partials\\nav-main.html"
+			],
+			[
+				"app.html",
+				"public\\en\\app.html"
+			],
+			[
+				"home",
+				"public\\en\\views\\home.html"
+			],
+			[
+				"confg",
+				"conf\\config.js"
+			],
+			[
+				"server",
+				"server.js"
+			],
+			[
+				"routes",
+				"routes-tqa.js"
+			],
+			[
+				"post.html",
+				"public\\fr\\views\\post.html"
+			],
+			[
+				"post",
+				"public\\en\\views\\post.html"
+			],
+			[
+				"post.js",
+				"public\\global\\js\\hub\\controllers\\post.js"
+			],
+			[
+				"app.js",
+				"public\\global\\js\\hub\\app.js"
+			],
+			[
+				"route",
+				"routes.js"
+			],
+			[
+				"confi",
+				"conf\\config.js"
+			],
+			[
+				"config",
+				"conf\\config.js"
+			],
+			[
+				"gitin",
+				".gitignore"
+			],
+			[
+				"status",
+				"node_modules\\request\\node_modules\\form-data\\node_modules\\combined-stream\\test\\integration\\test-unpaused-streams.js"
+			],
+			[
+				"twit",
+				"oauth\\oauth-twitter.js"
+			],
+			[
+				"template",
+				"js\\templates.js"
+			],
+			[
+				"layout",
+				"less\\bootstrap\\layout.less"
+			],
+			[
+				"templates",
+				"js\\templates.js"
+			],
+			[
+				"header-main",
+				"en_CA\\web\\templates\\header-main.handlebars"
+			],
+			[
+				"header-top",
+				"en_CA\\web\\templates\\header-top.handlebars"
+			],
+			[
+				"mobile-hea",
+				"en_CA\\web\\templates\\mobile-header-top.handlebars"
+			],
+			[
+				"acconu",
+				"en_CA\\web\\AccountHistory.html"
+			],
+			[
+				"rating",
+				"js\\bootstrap\\custom\\bootstrap-rating-input.js"
+			],
+			[
+				"mobile.less",
+				"less\\bootstrap\\custom\\custom-responsive-mobile.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"\\\\idcwp51.devingdircan.ca\\C$\\hub-new\\content-hub.sublime-project"
+			],
+			[
+				"content",
+				"\\\\idcwp51.devingdircan.ca\\C$\\hub-new\\content-hub.sublime-project"
+			],
+			[
+				"secure",
+				"C:\\wamp\\www\\secure.tangerine.ca\\tangerine-secure.sublime-project"
+			],
+			[
+				"for",
+				"C:\\wamp\\www\\forwardthinking-widget\\forwardthinking-widget.sublime-project"
+			],
+			[
+				"contr",
+				"\\\\idcwp51.devingdircan.ca\\C$\\hub-new\\content-hub.sublime-project"
+			],
+			[
+				"secur",
+				"C:\\wamp\\www\\secure.tangerine.ca\\tangerine-secure.sublime-project"
+			],
+			[
+				"si2",
+				"C:\\wamp\\www\\Site Integration Phase 2 - Brett\\si2.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
